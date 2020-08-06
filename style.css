@@ -2,12 +2,12 @@ body{
     background-image: url("bg-image.png");
 }
 
-/* .page-margin{
+.page-margin{
     margin-top: 10px;
-    padding-top: 30px;
+    /* padding-top: 30px;
     padding-right: 30px;
-    padding-left: 177px;
-} */
+    padding-left: 177px; */
+} 
 
 /* .carousel-item img{
     border-radius: 50px;
