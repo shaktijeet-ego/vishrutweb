@@ -20,6 +20,10 @@ body{
 
 }
 
+img{
+    class="rounded"
+}
+
 
 /* .card img{
     width: 300px;
