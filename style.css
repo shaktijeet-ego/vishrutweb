@@ -20,9 +20,7 @@ body{
 
 }
 
-img{
-    class="rounded"
-}
+\
 
 
 /* .card img{
@@ -35,3 +33,8 @@ img{
 footer{
     margin-top: 20px;;
 }
+
+.bg-change{
+    background-color: #FEC10D;
+}
+
